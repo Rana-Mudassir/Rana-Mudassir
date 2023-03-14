@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi , I'm Mudassir Nazir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=887DF7&background=000000C3&vCenter=true&width=435&lines=Full+Stack+Developer+%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=887DF7&background=000000C3&vCenter=true&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 
 ## About Me
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - I studied BSCS from National Textile University, Faisalabad, Pakistan
 - I have done Internship in Node.js from VisionX Technologies, Islamabad
 - I have also experience with React.js 
-<br>
+
 
 ## Connect With Me :blush:
 <a href="mudassirnazird22@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
