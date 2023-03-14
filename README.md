@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## About Me
-<br>
+<br><br>
 - Currently I am a student at Microverse.
 - I am open to new opportunities
 - I studied BSCS from National Textile University, Faisalabad, Pakistan
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ## Connect With Me :blush:
 <a href="mudassirnazird22@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/rana-mudassir-nazir-03541114a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
 <br>
+
 ## 🛠️ My Skills
 
 ###  Programming languages
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-
 <br>
+
 ### Frontent Languages 
 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -65,6 +65,7 @@ Here are some ideas to get you started:
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 <br>
+
 ### Backend Languages
 
 <a href="https://www.w3schools.com/nodejs/default.asp" target="_blank"> 
