@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi , I'm Mudassir Nazir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=887DF7&background=000000C3&vCenter=true&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=887DF7&background=000000C3&vCenter=true&width=435&lines=Full-Stack+Developer)](https://git.io/typing-svg)
 
 
 ## About Me
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
    </a>
 <br>
 
-### Frontent Languages 
+### Front-end Languages 
 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
    </a>
 <br>
 
-### Backend Languages
+### Back-end Languages
 
 <a href="https://www.w3schools.com/nodejs/default.asp" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/Node-js-blue">
