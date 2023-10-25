@@ -85,7 +85,7 @@ Here are some ideas to get you started:
    </a>
 
 <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/Ruby-and-Rails-active">
+     <img alt="JavaScript" src="https://img.shields.io/badge/Rails-active">
    </a>
 
 <br>
