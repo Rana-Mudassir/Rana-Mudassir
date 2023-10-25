@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ## About Me
 <br><br>
-- Currently I am a student at Microverse.
-- I am open to new opportunities
+- Currently, I am looking new Role.
+- Recently I completed the Microverse Full-Stack Development Program.
 - I studied BSCS from National Textile University, Faisalabad, Pakistan
-- I have done Internship in Node.js from VisionX Technologies, Islamabad
-- I have also experience with React.js 
+- I have done an Internship in Node.js from VisionX Technologies, Islamabad
+- I have Full Stack experience with React.js, Node.js, Ruby, Ruby on Rails, Express.js, MongoDB, and PostgreSQL
 
 
 ## Connect With Me :blush:
