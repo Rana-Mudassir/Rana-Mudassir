@@ -79,6 +79,15 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/SQL-Query-inactive">
    </a>
+
+<a href="https://www.w3schools.com/sql/default.asp" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/Ruby-active">
+   </a>
+
+<a href="https://www.w3schools.com/sql/default.asp" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/Ruby-and-Rails-active">
+   </a>
+
 <br>
 
 ## My Github Stats
