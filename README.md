@@ -90,10 +90,6 @@ Here are some ideas to get you started:
 
 <br>
 
-## My Github Stats
-
-[![Mudassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana-Mudassir)](https://github.com/Rana-Mudassir/github-readme-stats)
-
 #### Github Stats ⚡
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
