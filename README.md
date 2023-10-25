@@ -94,4 +94,8 @@ Here are some ideas to get you started:
 
 [![Mudassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana-Mudassir)](https://github.com/Rana-Mudassir/github-readme-stats)
 
+## 
+[![Mudassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana-Mudassir)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Looking For New Opportunities 
