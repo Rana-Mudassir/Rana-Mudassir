@@ -94,8 +94,17 @@ Here are some ideas to get you started:
 
 [![Mudassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana-Mudassir)](https://github.com/Rana-Mudassir/github-readme-stats)
 
-## 
-[![Mudassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana-Mudassir)](https://github.com/anuraghazra/github-readme-stats)
+#### Github Stats ⚡
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Mudassir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rana-Mudassir&count_private=true&show_icons=true&theme=ambient-gradient&hide_border=true&border_radius=4.8" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Mudassir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Mudassir&langs_count=8&layout=compact&theme=ambient-gradient&hide_border=true&border_radius=4.8" height="192px"/>
+  </a>
+  <br>
+  <br>
+  <br>
 
 
 # Looking For New Opportunities 
