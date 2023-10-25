@@ -98,6 +98,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Mudassir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Mudassir&langs_count=8&layout=compact&theme=ambient-gradient&hide_border=true&border_radius=4.8" height="192px"/>
   </a>
+
+  [![Mudassir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rana-Mudassir)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   <br>
   <br>
